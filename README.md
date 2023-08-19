@@ -5,7 +5,7 @@ Cabeca is a modpack that combines magical, industrial and adventure mods.<br>
 Also contains ftb utilities, voice chat and other features to server.<br>
 The minecraft version choosed is 1.12.2, because it is more stable, the modloader is forge 14.23.5.2860.
 
-This modpack begined this year 2023. It was created by a friend's group that is minecraft fan.<br>
+This modpack begun this year 2023. It was created by a friend's group that is minecraft fan.<br>
 We intend this project to grow up, so open source will be a great idea to expand the community.<br>
 
 The table below shows what mods were installed.
