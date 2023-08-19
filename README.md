@@ -117,7 +117,7 @@ The table below shows what mods were installed.
 | Tesla Core Lib                                    | 1.0.18            |
 | Thaumcraft                                        | 6.1.BETA26        |
 | Thaumic JEI                                       | 1.6.0-27          |
-| Thaumic Periphery                                 | 0.3.1         | The One Probe                                     | 1.4.28            |
+| Thaumic Periphery                                 | 0.3.1             | 
 | Thermal Expansion                                 | 5.5.7.1           |
 | Thermal Foundation                                | 2.6.7.1           |
 | Tinker Tool Leveling                              | 1.1.0             |
